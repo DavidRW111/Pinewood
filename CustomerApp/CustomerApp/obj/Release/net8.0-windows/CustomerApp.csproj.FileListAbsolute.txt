@@ -1,0 +1,17 @@
+C:\Users\david\source\repos\Pinewood\CustomerApp\CustomerApp\bin\Release\net8.0-windows\CustomerApp.exe
+C:\Users\david\source\repos\Pinewood\CustomerApp\CustomerApp\bin\Release\net8.0-windows\CustomerApp.deps.json
+C:\Users\david\source\repos\Pinewood\CustomerApp\CustomerApp\bin\Release\net8.0-windows\CustomerApp.runtimeconfig.json
+C:\Users\david\source\repos\Pinewood\CustomerApp\CustomerApp\bin\Release\net8.0-windows\CustomerApp.dll
+C:\Users\david\source\repos\Pinewood\CustomerApp\CustomerApp\bin\Release\net8.0-windows\CustomerApp.pdb
+C:\Users\david\source\repos\Pinewood\CustomerApp\CustomerApp\obj\Release\net8.0-windows\CustomerApp.AddUpdateCustomerForm.resources
+C:\Users\david\source\repos\Pinewood\CustomerApp\CustomerApp\obj\Release\net8.0-windows\CustomerApp.CustomerForm.resources
+C:\Users\david\source\repos\Pinewood\CustomerApp\CustomerApp\obj\Release\net8.0-windows\CustomerApp.csproj.GenerateResource.cache
+C:\Users\david\source\repos\Pinewood\CustomerApp\CustomerApp\obj\Release\net8.0-windows\CustomerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\david\source\repos\Pinewood\CustomerApp\CustomerApp\obj\Release\net8.0-windows\CustomerApp.AssemblyInfoInputs.cache
+C:\Users\david\source\repos\Pinewood\CustomerApp\CustomerApp\obj\Release\net8.0-windows\CustomerApp.AssemblyInfo.cs
+C:\Users\david\source\repos\Pinewood\CustomerApp\CustomerApp\obj\Release\net8.0-windows\CustomerApp.csproj.CoreCompileInputs.cache
+C:\Users\david\source\repos\Pinewood\CustomerApp\CustomerApp\obj\Release\net8.0-windows\CustomerApp.dll
+C:\Users\david\source\repos\Pinewood\CustomerApp\CustomerApp\obj\Release\net8.0-windows\refint\CustomerApp.dll
+C:\Users\david\source\repos\Pinewood\CustomerApp\CustomerApp\obj\Release\net8.0-windows\CustomerApp.pdb
+C:\Users\david\source\repos\Pinewood\CustomerApp\CustomerApp\obj\Release\net8.0-windows\CustomerApp.genruntimeconfig.cache
+C:\Users\david\source\repos\Pinewood\CustomerApp\CustomerApp\obj\Release\net8.0-windows\ref\CustomerApp.dll
